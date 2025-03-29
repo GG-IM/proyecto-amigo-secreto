@@ -3,9 +3,8 @@
 Una aplicación web simple para realizar un sorteo de **Amigo Secreto**, donde los participantes ingresan sus nombres y se elige un ganador al azar.
 
 ## 📸 Vista previa
-![Captura de pantalla]![image](https://github.com/user-attachments/assets/487106c3-6af8-47f5-b245-153fd41e66b6)
+![image](https://github.com/user-attachments/assets/487106c3-6af8-47f5-b245-153fd41e66b6)
 
-*(Agrega una captura de pantalla de tu proyecto aquí)*
 
 ---
 
@@ -33,10 +32,3 @@ Una aplicación web simple para realizar un sorteo de **Amigo Secreto**, donde l
 - HTML5  
 - CSS3  
 - JavaScript (DOM Manipulation)  
-
----
-
-## 🔧 Instalación y Uso
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
